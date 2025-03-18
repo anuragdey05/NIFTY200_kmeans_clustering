@@ -25,6 +25,8 @@ This project analyzes stocks listed in the Nifty 200 index using machine learnin
 - Used Elbow Method to determine the optimal number of clusters, which was found to be 10.
 - Grouped stocks into clusters based on their financial metrics.
 - Interpreted the characteristics of each cluster, identifying themes such as growth stocks, value stocks, and high-leverage firms.
+  ![Cluster Analysis](elbow plot.png)
+
 
 #### **2. Portfolio Performance Metrics**
 For each cluster, the following metrics were computed:
