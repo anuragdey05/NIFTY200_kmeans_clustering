@@ -60,6 +60,8 @@ For each cluster, the following metrics were computed:
 #### **Comparison with Nifty 200 Benchmark**
 - The selected portfolio outperformed the Nifty 200 in terms of return, Sharpe Ratio, and Treynor Ratio.
 
+  ![clustering_analysis](portfolio_weights_distribution.png)
+
 ### **Methodology**
 1. **Data Loading and Preprocessing**:
    - Collected data from CSV files and APIs.
